@@ -1,5 +1,7 @@
 # Python
 
-In this repository you will may different python programs on various topics
-#And AT the start of every program problem statement is mentioned
-DO refer
+In this repository you will many different python programs on various topics.
+I have sloved different assignment basicly.
+And each assignment conatins different kind of program on differnt topics as well as in different ways.
+And aT the start of every application you will find the problem statement is mentioned
+
